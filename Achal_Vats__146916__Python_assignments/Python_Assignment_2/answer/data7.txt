@@ -1,0 +1,34 @@
+
+
+Network Issue  :
+----------------
+INC0012345   IBD   caused because of the network issue   Active
+INC0065456   IBD   caused because of the network issue   Active
+INC0000076   EQP   caused because of the network issue   Active
+INC0073637   IBD   caused because of the network issue   Closed
+INC0027262   TSM   caused because of the network issue   Active
+INC0092828   EQP   caused because of the network issue   Active
+INC0071238   EQP   caused because of the network issue   Closed
+INC0000615   MDM   caused because of the network issue   Active
+INC0025272   TSM   caused because of the network issue   Closed
+INC0082426   TSM   caused because of the network issue   Active
+
+
+Database Issue  :
+-----------------
+INC0012435   IBD   caused because of the databse connection error   Closed
+INC0012564   MDM   caused because of the databse connection error   Closed
+INC0035627   EQP   caused because of the databse connection error   Active
+INC0023242   IBD   caused because of the databse connection error   Active
+INC0001817   TSM   caused because of the databse connection error   Closed
+
+
+Access Issue  :
+---------------
+INC0000453   MDM   caused because of the Access Denied issue   Closed
+INC0052423   EQP   caused because of the Access Denied issue   Active
+INC0001415   MDM   caused because of the Access Denied issue   Active
+INC0081514   EQP   caused because of the Access Denied issue   Active
+INC0098729   MDM   caused because of the Access Denied issue   Active
+INC0067426   CAT    Access Denied because of useless things   Active
+INC0000000   BART   Access Denied because xyz, pandey   Closed

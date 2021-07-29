@@ -1,0 +1,8 @@
+write a python script which reads emails from inbox , 
+eg read all  the emails which are coming from a person of group.
+
+open the email
+
+read the contents of the email, 
+
+if email contains any links please collect all the links and update in the excel file .
